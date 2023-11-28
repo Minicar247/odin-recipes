@@ -1,0 +1,31 @@
+ * {
+    background-color: aqua;
+ }
+ 
+ h1,
+ h2 {
+    color: red;
+    text-align: center;
+ }
+
+ h1 {
+    background-color: blue;
+ }
+
+ p,
+ li {
+    text-align: center;
+ }
+
+ ul li {
+    list-style-position: inside;
+ }
+
+ .image {
+    display: block;
+    margin: 0 auto;
+ }
+
+ .homepage {
+    text-align: center;
+ }
